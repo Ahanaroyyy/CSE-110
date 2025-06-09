@@ -1,4 +1,4 @@
-This repository contains my solutions to all the lab assignments from the Spring 2025 CSE111 course at BRAC University.
+This repository contains my solutions to all the lab assignments from the CSE110 course at BRAC University.
 
 This code is shared for educational purposes only.
 
